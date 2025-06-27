@@ -1,4 +1,24 @@
 body {
-    color: white;
+    color: rgb(255, 255, 255);
     background: black;
+    margin: 0px;
+}
+
+header{
+    border-bottom: solid 2px  rgb(58, 6, 141);
+    padding: 20px;
+    font-size: 30;
+    color: rgb(58, 6, 141);
+}
+
+section{
+    background: rgb(46, 56, 67);
+    padding-bottom: 80px;
+    padding-top: 80;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-right: 20px;
 }
